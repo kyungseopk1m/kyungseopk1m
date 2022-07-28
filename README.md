@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 <div align="center">
     <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">
     <img src="https://img.shields.io/badge/json-000000?style=for-the-badge&logo=json&logoColor=white">
-    <img src="https://img.shields.io/badge/jQuery-#769AD?style=for-the-badge&logo=jQuery&logoColor=white">
+    <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jQuery&logoColor=white">
     <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
     <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white">
     <br>
