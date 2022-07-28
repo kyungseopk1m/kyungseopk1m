@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 <h1 align="center">Kyungseop Kim</h1>
 <h3 align="center">Hi there 👋</h3>
-<h3 align="center"> 💻Tech Stack</h3>
+<h3 align="center"> 💻 Tech Stack 💻</h3>
 <h3 align="center"> Techs that I've used at least once</h3>
 <hr>
 <div align="center">
