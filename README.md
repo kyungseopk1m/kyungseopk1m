@@ -3,6 +3,8 @@
 - 🔭 I'm Backend Developer
 - 🎓 I majored in playwriting
 - 🌱 I’m currently learning computer science
+- 💡 I’m interested in Go, Nest.js
+- 🎬 I’m looking to collaborate on ...
 
 ##### 🎥 Tech Stack
 
@@ -29,8 +31,8 @@
 </div>
 
 ##### 🎞️ Experience
-- 2023.04 ~ 2023.07 : AAI-Healthcare Application Backend [[App store](https://apps.apple.com/kr/app/%EC%95%94%ED%96%89%EC%96%B4%EC%82%AC-%EB%82%98%EC%9D%98-%EA%B1%B4%EA%B0%95-%EC%9C%A0%ED%98%95%EC%9D%80/id6450022222) / [Google play](https://play.google.com/store/apps/details?id=com.aaihc.amhaengeosa)]
-
+- 2023.04 ~ 2023.07 : AAI-Healthcare Application [[App store](https://apps.apple.com/kr/app/%EC%95%94%ED%96%89%EC%96%B4%EC%82%AC-%EB%82%98%EC%9D%98-%EA%B1%B4%EA%B0%95-%EC%9C%A0%ED%98%95%EC%9D%80/id6450022222) / [Google play](https://play.google.com/store/apps/details?id=com.aaihc.amhaengeosa)]
+- 2023.08 ~ 0000.00 : AAI-Healthcare AI Chat
 
 <!--
 **kyungseopk1m/kyungseopk1m** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
