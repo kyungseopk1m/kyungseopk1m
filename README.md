@@ -31,6 +31,6 @@
 </div>
 
 ##### 🎞️ Experience
-- 2023.04 ~ 2023.07 : AAI-Healthcare Application [ [Website](https://cancerprevention.aaihc.com/) / [App store](https://apps.apple.com/kr/app/%EC%95%94%ED%96%89%EC%96%B4%EC%82%AC-%EB%82%98%EC%9D%98-%EA%B1%B4%EA%B0%95-%EC%9C%A0%ED%98%95%EC%9D%80/id6450022222) / [Google play](https://play.google.com/store/apps/details?id=com.aaihc.amhaengeosa) ]
-- 2023.08 ~ 2023.09 : A+ Asset MyData Lookup Table API
-- 2023.08 ~ 2023.12 : AAI-Healthcare AI Chat
+- 2023.04 ~ 2023.07 : AAI-Healthcare Application [ [Web](https://cancerprevention.aaihc.com/) / [App store](https://apps.apple.com/kr/app/%EC%95%94%ED%96%89%EC%96%B4%EC%82%AC-%EB%82%98%EC%9D%98-%EA%B1%B4%EA%B0%95-%EC%9C%A0%ED%98%95%EC%9D%80/id6450022222) / [Google play](https://play.google.com/store/apps/details?id=com.aaihc.amhaengeosa) ]
+- 2023.08 ~ 2023.09 : A+ Asset MyData Lookup Table API [ [Web](https://www.bople.kr/) ]
+- 2023.08 ~ 2023.12 : AAI-Healthcare AI Chatbot
